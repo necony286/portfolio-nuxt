@@ -1,0 +1,17 @@
+{
+  "name": "neconianz-portfolio",
+  "version": "1.0.0",
+  "description": "nuxt-portfolio",
+  "author": "necony286",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
